@@ -1,0 +1,839 @@
+Meeting,Race,Time,Distance,Runner,Rug,Box,Price
+Ascot Park,1,2025-08-27 10:07:00,390,Mitcham Renae,2,2,2.5
+Ascot Park,1,2025-08-27 10:07:00,390,Homebush Tink,3,3,5.5
+Ascot Park,1,2025-08-27 10:07:00,390,Mayfield Ginger,4,4,13
+Ascot Park,1,2025-08-27 10:07:00,390,Pumpkin Spice,5,5,7
+Ascot Park,1,2025-08-27 10:07:00,390,Homebush Sobers,6,6,5
+Ascot Park,1,2025-08-27 10:07:00,390,Mayfield Splash,7,7,0
+Ascot Park,1,2025-08-27 10:07:00,390,Mayfield Pops,9,7,18
+Ascot Park,1,2025-08-27 10:07:00,390,Homebush Husk,8,8,3.5
+Ascot Park,2,2025-08-27 10:24:00,390,Mitcham Lauren,2,2,10
+Ascot Park,2,2025-08-27 10:24:00,390,Opawa Emily,3,3,1.28
+Ascot Park,2,2025-08-27 10:24:00,390,Elite Oreo,4,4,6
+Ascot Park,2,2025-08-27 10:24:00,390,Mayfield Liberty,5,5,7.5
+Ascot Park,2,2025-08-27 10:24:00,390,Another Love,6,6,0
+Ascot Park,2,2025-08-27 10:24:00,390,Homebush Romilly,10,6,0
+Ascot Park,2,2025-08-27 10:24:00,390,Mayfield Conquer,7,7,7.5
+Ascot Park,2,2025-08-27 10:24:00,390,Jumping Juliet,8,8,15
+Ascot Park,3,2025-08-27 10:42:00,390,Homebush Molly,2,2,21
+Ascot Park,3,2025-08-27 10:42:00,390,Homebush Apollo,3,3,21
+Ascot Park,3,2025-08-27 10:42:00,390,Getting Closer,4,4,1.4
+Ascot Park,3,2025-08-27 10:42:00,390,Homebush Willow,5,5,21
+Ascot Park,3,2025-08-27 10:42:00,390,Mayfield Falcon,6,6,14
+Ascot Park,3,2025-08-27 10:42:00,390,Homebush Nelly,7,7,0
+Ascot Park,3,2025-08-27 10:42:00,390,Wanderer Diego,10,7,3.4
+Ascot Park,3,2025-08-27 10:42:00,390,Mayfield Warrior,8,8,8.5
+Ascot Park,4,2025-08-27 10:59:00,390,Salted Caramel,2,2,0
+Ascot Park,4,2025-08-27 10:59:00,390,Homebush Charlie,10,2,26
+Ascot Park,4,2025-08-27 10:59:00,390,Hurunui Rose,3,3,0
+Ascot Park,4,2025-08-27 10:59:00,390,Kate Baxter,9,3,2.05
+Ascot Park,4,2025-08-27 10:59:00,390,Homebush Bull,4,4,2.45
+Ascot Park,4,2025-08-27 10:59:00,390,Mayfield Turbo,5,5,5
+Ascot Park,4,2025-08-27 10:59:00,390,Homebush Phantom,6,6,12
+Ascot Park,4,2025-08-27 10:59:00,390,Mayfield Goose,7,7,5
+Ascot Park,4,2025-08-27 10:59:00,390,Mayfield Sam,8,8,0
+Ascot Park,5,2025-08-27 11:16:00,390,Homebush Rocket,2,2,21
+Ascot Park,5,2025-08-27 11:16:00,390,Homebush Patch,3,3,6.5
+Ascot Park,5,2025-08-27 11:16:00,390,Opawa Enya,4,4,9
+Ascot Park,5,2025-08-27 11:16:00,390,Homebush Sunny,5,5,1.8
+Ascot Park,5,2025-08-27 11:16:00,390,Broker's Tip,6,6,3.9
+Ascot Park,5,2025-08-27 11:16:00,390,Back Chat Bailey,7,7,9
+Ascot Park,5,2025-08-27 11:16:00,390,Cloud Of Dust,8,8,8.5
+Ascot Park,6,2025-08-27 11:33:00,457,Homebush Louis,3,3,18
+Ascot Park,6,2025-08-27 11:33:00,457,Epic Wildman,4,4,11
+Ascot Park,6,2025-08-27 11:33:00,457,Flawless Chatter,5,5,26
+Ascot Park,6,2025-08-27 11:33:00,457,Homebush Venom,6,6,14
+Ascot Park,6,2025-08-27 11:33:00,457,Molly Rose,7,7,1.5
+Ascot Park,6,2025-08-27 11:33:00,457,Diamond Dolly,8,8,2.9
+Ascot Park,7,2025-08-27 11:50:00,390,Diamond Alice,2,2,2.2
+Ascot Park,7,2025-08-27 11:50:00,390,Homebush Cash,3,3,3.9
+Ascot Park,7,2025-08-27 11:50:00,390,Homebush Billie,4,4,20
+Ascot Park,7,2025-08-27 11:50:00,390,Side Eye,5,5,4.6
+Ascot Park,7,2025-08-27 11:50:00,390,Homebush Josh,6,6,4.4
+Ascot Park,7,2025-08-27 11:50:00,390,Homebush Opal,7,7,23
+Ascot Park,7,2025-08-27 11:50:00,390,Mitcham Mandy,8,8,6
+Ascot Park,8,2025-08-27 12:06:00,390,Mayfield Yang,2,2,2.25
+Ascot Park,8,2025-08-27 12:06:00,390,Homebush Megan,3,3,4.8
+Ascot Park,8,2025-08-27 12:06:00,390,Homebush Muffin,4,4,4.4
+Ascot Park,8,2025-08-27 12:06:00,390,Diamond Harriot,5,5,7
+Ascot Park,8,2025-08-27 12:06:00,390,Homebush Stumpy,6,6,7
+Ascot Park,8,2025-08-27 12:06:00,390,Whimsical Boy,7,7,7
+Ascot Park,8,2025-08-27 12:06:00,390,Alpha Riley,8,8,0
+Ascot Park,8,2025-08-27 12:06:00,390,Homebush Ben,10,8,17
+Ascot Park,9,2025-08-27 12:25:00,390,Homebush Gomez,2,2,7.5
+Ascot Park,9,2025-08-27 12:25:00,390,Mitcham Blake,3,3,3.8
+Ascot Park,9,2025-08-27 12:25:00,390,Diamond Ranger,4,4,1.4
+Ascot Park,9,2025-08-27 12:25:00,390,Homebush Alfie,5,5,10
+Ascot Park,9,2025-08-27 12:25:00,390,Mini Bull,6,6,13
+Ascot Park,9,2025-08-27 12:25:00,390,King Kobori,7,7,31
+Ascot Park,9,2025-08-27 12:25:00,390,Runaway Me,8,8,26
+Ascot Park,10,2025-08-27 12:43:00,390,Diamond Chloe,2,2,5
+Ascot Park,10,2025-08-27 12:43:00,390,Homebush Teddy,3,3,12
+Ascot Park,10,2025-08-27 12:43:00,390,Homebush Diva,4,4,5.5
+Ascot Park,10,2025-08-27 12:43:00,390,Mitcham Julian,5,5,6
+Ascot Park,10,2025-08-27 12:43:00,390,Homebush Simba,6,6,2.1
+Ascot Park,10,2025-08-27 12:43:00,390,Homebush Harry,7,7,9.5
+Ascot Park,10,2025-08-27 12:43:00,390,Diamond Scarlett,8,8,4.2
+Ascot Park,11,2025-08-27 13:05:00,390,Homebush Nala,2,2,1.8
+Ascot Park,11,2025-08-27 13:05:00,390,Marty Baxter,3,3,8.5
+Ascot Park,11,2025-08-27 13:05:00,390,Diamond Emma,4,4,5.5
+Ascot Park,11,2025-08-27 13:05:00,390,Homebush Baby,5,5,21
+Ascot Park,11,2025-08-27 13:05:00,390,Mitcham Roxy,6,6,4.6
+Ascot Park,11,2025-08-27 13:05:00,390,Sideline Sasha,7,7,0
+Ascot Park,11,2025-08-27 13:05:00,390,Homebush Bentley,9,7,4.6
+Ascot Park,11,2025-08-27 13:05:00,390,Homebush Ken,8,8,16
+Ascot Park,12,2025-08-27 13:22:00,390,Impressive Nixon,2,2,0
+Ascot Park,12,2025-08-27 13:22:00,390,Ruby Red Dress,9,2,23
+Ascot Park,12,2025-08-27 13:22:00,390,Mayfield Pizazz,3,3,4
+Ascot Park,12,2025-08-27 13:22:00,390,Decision Time,4,4,1.85
+Ascot Park,12,2025-08-27 13:22:00,390,Impressive Elf,5,5,23
+Ascot Park,12,2025-08-27 13:22:00,390,Homebush Heleena,6,6,5
+Ascot Park,12,2025-08-27 13:22:00,390,Homebush Richie,7,7,6
+Ascot Park,12,2025-08-27 13:22:00,390,Mayfield Pi,8,8,11
+Ballarat,1,2025-08-27 18:18:00,390,Proud Mary,1,1,4
+Ballarat,1,2025-08-27 18:18:00,390,Highway To Hell,2,2,5.5
+Ballarat,1,2025-08-27 18:18:00,390,Toowoomba Willy,4,4,3.5
+Ballarat,1,2025-08-27 18:18:00,390,Irish Carla,5,5,3
+Ballarat,1,2025-08-27 18:18:00,390,Rita Skeeter,7,7,6.5
+Ballarat,1,2025-08-27 18:18:00,390,On Song Turner,8,8,4.8
+Ballarat,2,2025-08-27 18:35:00,390,Hara Hachi Bu,1,1,3.9
+Ballarat,2,2025-08-27 18:35:00,390,Paw Estrella,2,2,9.5
+Ballarat,2,2025-08-27 18:35:00,390,Zali Zoom,4,4,2.8
+Ballarat,2,2025-08-27 18:35:00,390,Zippy Fish,5,5,9
+Ballarat,2,2025-08-27 18:35:00,390,Indy Grant,7,7,0
+Ballarat,2,2025-08-27 18:35:00,390,Oh Biscuit,8,8,2
+Ballarat,3,2025-08-27 18:58:00,545,Zipping Beluga,1,1,5.5
+Ballarat,3,2025-08-27 18:58:00,545,Zipping Migaloo,2,2,4.8
+Ballarat,3,2025-08-27 18:58:00,545,Zipping Orca,4,4,5.5
+Ballarat,3,2025-08-27 18:58:00,545,Zipping Norris,6,6,6.5
+Ballarat,3,2025-08-27 18:58:00,545,Aston Trust,8,8,1.5
+Ballarat,4,2025-08-27 19:18:00,545,Smooth Plane,1,1,1.08
+Ballarat,4,2025-08-27 19:18:00,545,Aston Michigan,2,2,15
+Ballarat,4,2025-08-27 19:18:00,545,Paw Ollie,4,4,5
+Ballarat,4,2025-08-27 19:18:00,545,Voss Ali,6,6,15
+Ballarat,4,2025-08-27 19:18:00,545,Fast Knockdown,8,8,11
+Ballarat,5,2025-08-27 19:40:00,390,Delatite Beast,1,1,6
+Ballarat,5,2025-08-27 19:40:00,390,Paw Enna,2,2,10
+Ballarat,5,2025-08-27 19:40:00,390,James's Entity,3,3,4.8
+Ballarat,5,2025-08-27 19:40:00,390,Aston Warrior,4,4,5.5
+Ballarat,5,2025-08-27 19:40:00,390,Cash The Lot,6,6,9
+Ballarat,5,2025-08-27 19:40:00,390,Federal Player,7,7,1.95
+Ballarat,5,2025-08-27 19:40:00,390,Goosebumps Rico,8,8,4.4
+Ballarat,6,2025-08-27 19:58:00,390,Pyrenees Ace,1,1,2.7
+Ballarat,6,2025-08-27 19:58:00,390,Mac And Cheese,2,2,5
+Ballarat,6,2025-08-27 19:58:00,390,Rabada,3,3,8.5
+Ballarat,6,2025-08-27 19:58:00,390,How Amazing,4,4,4.8
+Ballarat,6,2025-08-27 19:58:00,390,Eco Bale,6,6,2.9
+Ballarat,6,2025-08-27 19:58:00,390,Pegasus Bale,7,7,15
+Ballarat,6,2025-08-27 19:58:00,390,Jaded Smile,8,8,5.5
+Ballarat,7,2025-08-27 20:18:00,450,Phineas Nigellus,1,1,11
+Ballarat,7,2025-08-27 20:18:00,450,Phoenix Red,2,2,20
+Ballarat,7,2025-08-27 20:18:00,450,Buster Bourbski,3,3,4.8
+Ballarat,7,2025-08-27 20:18:00,450,Caco Missile,4,4,3.9
+Ballarat,7,2025-08-27 20:18:00,450,Miner Mick,5,5,3.7
+Ballarat,7,2025-08-27 20:18:00,450,Dark Arts,6,6,10
+Ballarat,7,2025-08-27 20:18:00,450,Vista Exam,7,7,0
+Ballarat,7,2025-08-27 20:18:00,450,Deadly Grin,9,7,3.9
+Ballarat,7,2025-08-27 20:18:00,450,Smooth Blast,8,8,4
+Ballarat,8,2025-08-27 20:38:00,390,Rhea Riptide,1,1,4.6
+Ballarat,8,2025-08-27 20:38:00,390,Cliff The Boss,2,2,2.7
+Ballarat,8,2025-08-27 20:38:00,390,Paw Vada,3,3,15
+Ballarat,8,2025-08-27 20:38:00,390,Wearing Levis,4,4,11
+Ballarat,8,2025-08-27 20:38:00,390,Valletta Moon,5,5,7.5
+Ballarat,8,2025-08-27 20:38:00,390,Major Allen,6,6,9
+Ballarat,8,2025-08-27 20:38:00,390,Paw Uella,7,7,3.7
+Ballarat,8,2025-08-27 20:38:00,390,Uncle Mikey,8,8,4.6
+Ballarat,9,2025-08-27 20:58:00,545,Rapidfire Jayda,1,1,3.9
+Ballarat,9,2025-08-27 20:58:00,545,Moonlight River,2,2,1.4
+Ballarat,9,2025-08-27 20:58:00,545,Just Got Paid,4,4,4.6
+Ballarat,9,2025-08-27 20:58:00,545,Perfect Tonight,6,6,11
+Ballarat,9,2025-08-27 20:58:00,545,White Shiraz,8,8,26
+Ballarat,10,2025-08-27 21:17:00,450,Fled The Scene,1,1,3.6
+Ballarat,10,2025-08-27 21:17:00,450,Mavis Tolmie,2,2,31
+Ballarat,10,2025-08-27 21:17:00,450,Perfect Ace,4,4,11
+Ballarat,10,2025-08-27 21:17:00,450,Paw Xena,5,5,4.6
+Ballarat,10,2025-08-27 21:17:00,450,Sizzle Jack,7,7,5
+Ballarat,10,2025-08-27 21:17:00,450,No Restrictions,8,8,1.75
+Ballarat,11,2025-08-27 21:40:00,450,Dubrow,1,1,2.35
+Ballarat,11,2025-08-27 21:40:00,450,Derogative,2,2,4.6
+Ballarat,11,2025-08-27 21:40:00,450,Delicious,4,4,13
+Ballarat,11,2025-08-27 21:40:00,450,Shima Seal,5,5,4.6
+Ballarat,11,2025-08-27 21:40:00,450,Bandit Chloe,7,7,3.8
+Ballarat,11,2025-08-27 21:40:00,450,Panadero Ruby,8,8,4.2
+Ballarat,12,2025-08-27 21:59:00,450,Forbes Lightning,1,1,9
+Ballarat,12,2025-08-27 21:59:00,450,Pyrenees Pizazz,2,2,3.5
+Ballarat,12,2025-08-27 21:59:00,450,Paw Maddox,4,4,9
+Ballarat,12,2025-08-27 21:59:00,450,Highway Hooligan,5,5,2.45
+Ballarat,12,2025-08-27 21:59:00,450,Off The Beer,7,7,3.5
+Ballarat,12,2025-08-27 21:59:00,450,Birdhill Ned,8,8,6
+Ballarat,13,2025-08-27 22:17:00,390,Paw Mantra,1,1,8.5
+Ballarat,13,2025-08-27 22:17:00,390,Bourbon Bullet,2,2,17
+Ballarat,13,2025-08-27 22:17:00,390,Dragonelle,4,4,8.5
+Ballarat,13,2025-08-27 22:17:00,390,Speedy Easy,5,5,3.5
+Ballarat,13,2025-08-27 22:17:00,390,Royal Rupee,7,7,9
+Ballarat,13,2025-08-27 22:17:00,390,Augustus Finch,8,8,1.45
+Bendigo,1,2025-08-27 14:15:00,425,Space King,1,1,4.8
+Bendigo,1,2025-08-27 14:15:00,425,No Brakes,2,2,7
+Bendigo,1,2025-08-27 14:15:00,425,Autumn Angel,3,3,12
+Bendigo,1,2025-08-27 14:15:00,425,Greysynd Cruiser,4,4,20
+Bendigo,1,2025-08-27 14:15:00,425,Dodging Shadows,5,5,9
+Bendigo,1,2025-08-27 14:15:00,425,Dance Lady Dance,6,6,2.9
+Bendigo,1,2025-08-27 14:15:00,425,Texas Cowgirl,7,7,17
+Bendigo,1,2025-08-27 14:15:00,425,Sir Trenton,8,8,2.2
+Bendigo,2,2025-08-27 14:32:00,425,Moraine Sara,1,1,1.65
+Bendigo,2,2025-08-27 14:32:00,425,Sinaloa Icon,2,2,26
+Bendigo,2,2025-08-27 14:32:00,425,Trenton's Empire,3,3,6
+Bendigo,2,2025-08-27 14:32:00,425,Hesket Hornet,4,4,9.5
+Bendigo,2,2025-08-27 14:32:00,425,Darra Might,5,5,31
+Bendigo,2,2025-08-27 14:32:00,425,He's With Me,6,6,31
+Bendigo,2,2025-08-27 14:32:00,425,Urana Radiant,7,7,2.3
+Bendigo,2,2025-08-27 14:32:00,425,Gunai Maverick,8,8,26
+Bendigo,3,2025-08-27 14:57:00,425,Racey Stacey,1,1,8.5
+Bendigo,3,2025-08-27 14:57:00,425,Zinzan Cian,2,2,7.5
+Bendigo,3,2025-08-27 14:57:00,425,Intrigue,3,3,3.1
+Bendigo,3,2025-08-27 14:57:00,425,Atomic Diva,4,4,14
+Bendigo,3,2025-08-27 14:57:00,425,Thorny Devil,5,5,2.5
+Bendigo,3,2025-08-27 14:57:00,425,Pitman Go Well,6,6,4.6
+Bendigo,3,2025-08-27 14:57:00,425,Little Marra,7,7,0
+Bendigo,3,2025-08-27 14:57:00,425,Copperhead Dash,8,8,6
+Bendigo,4,2025-08-27 15:14:00,425,Cross Locks,1,1,1.95
+Bendigo,4,2025-08-27 15:14:00,425,Chill Out Roy,2,2,13
+Bendigo,4,2025-08-27 15:14:00,425,Zinzan Holly,3,3,19
+Bendigo,4,2025-08-27 15:14:00,425,Spark Lightning,4,4,6
+Bendigo,4,2025-08-27 15:14:00,425,Bold Dazzler,5,5,19
+Bendigo,4,2025-08-27 15:14:00,425,Ethanol Vision,6,6,3.3
+Bendigo,4,2025-08-27 15:14:00,425,Morning Daisy,7,7,4.8
+Bendigo,4,2025-08-27 15:14:00,425,Wonderful Girl,8,8,12
+Bendigo,5,2025-08-27 15:29:00,425,Grannie May,1,1,5.5
+Bendigo,5,2025-08-27 15:29:00,425,Blue Tick Nelson,2,2,3
+Bendigo,5,2025-08-27 15:29:00,425,Zapatron,3,3,15
+Bendigo,5,2025-08-27 15:29:00,425,Slinger,4,4,34
+Bendigo,5,2025-08-27 15:29:00,425,Elara Bale,5,5,9.5
+Bendigo,5,2025-08-27 15:29:00,425,Craig Keeping,6,6,5
+Bendigo,5,2025-08-27 15:29:00,425,Tiger Shark,7,7,2.05
+Bendigo,5,2025-08-27 15:29:00,425,Hello Cooper,8,8,16
+Bendigo,6,2025-08-27 15:49:00,425,Rocket Susie,1,1,18
+Bendigo,6,2025-08-27 15:49:00,425,Ace Redeemer,2,2,8
+Bendigo,6,2025-08-27 15:49:00,425,Zero Monster,3,3,2.9
+Bendigo,6,2025-08-27 15:49:00,425,Certain Magic,4,4,4.4
+Bendigo,6,2025-08-27 15:49:00,425,Perfect Liam,5,5,2.6
+Bendigo,6,2025-08-27 15:49:00,425,Zipping Swazi,6,6,5.5
+Bendigo,6,2025-08-27 15:49:00,425,Western Feel,7,7,8.5
+Bendigo,6,2025-08-27 15:49:00,425,Luna Beauty,8,8,0
+Bendigo,7,2025-08-27 16:04:00,500,Dark Miracle,1,1,8.5
+Bendigo,7,2025-08-27 16:04:00,500,Cousin Johnny,2,2,6
+Bendigo,7,2025-08-27 16:04:00,500,Moon Walk,3,3,21
+Bendigo,7,2025-08-27 16:04:00,500,Steal The Show,4,4,19
+Bendigo,7,2025-08-27 16:04:00,500,Monaleen Hugh,6,6,3.9
+Bendigo,7,2025-08-27 16:04:00,500,Shoot The Breeze,7,7,2
+Bendigo,7,2025-08-27 16:04:00,500,White Hawk,8,8,3.6
+Bendigo,8,2025-08-27 16:24:00,500,As You Were,1,1,3.6
+Bendigo,8,2025-08-27 16:24:00,500,Akela Young,2,2,7.5
+Bendigo,8,2025-08-27 16:24:00,500,Mcivor Jewels,3,3,5.5
+Bendigo,8,2025-08-27 16:24:00,500,Elsa Jay,4,4,4
+Bendigo,8,2025-08-27 16:24:00,500,Leave Me In,5,5,12
+Bendigo,8,2025-08-27 16:24:00,500,Mcivor Alfy,6,6,2.7
+Bendigo,8,2025-08-27 16:24:00,500,Gold Venom,7,7,6.5
+Bendigo,8,2025-08-27 16:24:00,500,Another Fifty,8,8,0
+Bendigo,9,2025-08-27 16:39:00,425,Julea Ruslie,1,1,4.4
+Bendigo,9,2025-08-27 16:39:00,425,Go Fish,2,2,2.8
+Bendigo,9,2025-08-27 16:39:00,425,Paw Kestell,3,3,13
+Bendigo,9,2025-08-27 16:39:00,425,Darra Mick,4,4,9.5
+Bendigo,9,2025-08-27 16:39:00,425,Belly Rubs,5,5,9
+Bendigo,9,2025-08-27 16:39:00,425,Berringa Black,6,6,20
+Bendigo,9,2025-08-27 16:39:00,425,Jooper,7,7,8.5
+Bendigo,9,2025-08-27 16:39:00,425,Reckless Crime,8,8,2.4
+Bendigo,10,2025-08-27 16:59:00,425,Wellerman,1,1,1.95
+Bendigo,10,2025-08-27 16:59:00,425,Collinda Pearl,2,2,5
+Bendigo,10,2025-08-27 16:59:00,425,Special Players,3,3,5.5
+Bendigo,10,2025-08-27 16:59:00,425,Black Prestige,4,4,10
+Bendigo,10,2025-08-27 16:59:00,425,Urana Whirlwind,5,5,9.5
+Bendigo,10,2025-08-27 16:59:00,425,King Plum,6,6,4.6
+Bendigo,10,2025-08-27 16:59:00,425,My Compass,7,7,15
+Bendigo,10,2025-08-27 16:59:00,425,Coconut Oakland,8,8,8.5
+Bendigo,11,2025-08-27 17:17:00,425,Smokin' Gracie,1,1,10
+Bendigo,11,2025-08-27 17:17:00,425,Flyin' Ethics,2,2,2.35
+Bendigo,11,2025-08-27 17:17:00,425,Rolling Coal,3,3,17
+Bendigo,11,2025-08-27 17:17:00,425,Bone Shaker,4,4,4.6
+Bendigo,11,2025-08-27 17:17:00,425,Raven Force,5,5,4.8
+Bendigo,11,2025-08-27 17:17:00,425,Hot Rocker,6,6,10
+Bendigo,11,2025-08-27 17:17:00,425,Ambani,7,7,4.2
+Bendigo,11,2025-08-27 17:17:00,425,Tornado Jack,8,8,5.5
+Bendigo,12,2025-08-27 17:39:00,425,Stella Rose,1,1,2.8
+Bendigo,12,2025-08-27 17:39:00,425,Argyle Emma,2,2,6
+Bendigo,12,2025-08-27 17:39:00,425,Borough Bound,3,3,11
+Bendigo,12,2025-08-27 17:39:00,425,Tonic's Girl,4,4,4.2
+Bendigo,12,2025-08-27 17:39:00,425,Salmon Spray,5,5,3.7
+Bendigo,12,2025-08-27 17:39:00,425,Beast Power,6,6,6.5
+Bendigo,12,2025-08-27 17:39:00,425,Kurraca Jinnie,7,7,0
+Bendigo,12,2025-08-27 17:39:00,425,Boulder Dash,8,8,5
+Bendigo,13,2025-08-27 17:57:00,425,Intercept Queen,1,1,2.5
+Bendigo,13,2025-08-27 17:57:00,425,She's Iconic,2,2,16
+Bendigo,13,2025-08-27 17:57:00,425,Like A Blaze,3,3,4.8
+Bendigo,13,2025-08-27 17:57:00,425,Perfect Revenge,4,4,5
+Bendigo,13,2025-08-27 17:57:00,425,Lektra Nick,5,5,71
+Bendigo,13,2025-08-27 17:57:00,425,Sabatini,6,6,2.35
+Bendigo,13,2025-08-27 17:57:00,425,Rocket Ralph,7,7,7
+Bendigo,13,2025-08-27 17:57:00,425,Rich Flex,8,8,0
+Capalaba,1,2025-08-27 11:28:00,366,Speedy Sprinkles,1,1,18
+Capalaba,1,2025-08-27 11:28:00,366,In Stiches,2,2,9
+Capalaba,1,2025-08-27 11:28:00,366,One Eye,3,3,10
+Capalaba,1,2025-08-27 11:28:00,366,Batman Returns,4,4,10
+Capalaba,1,2025-08-27 11:28:00,366,Federal Master,5,5,2.6
+Capalaba,1,2025-08-27 11:28:00,366,Polly's Vibe,6,6,3.2
+Capalaba,1,2025-08-27 11:28:00,366,Bundy Black,7,7,21
+Capalaba,1,2025-08-27 11:28:00,366,Brodie And Me,8,8,3.7
+Capalaba,2,2025-08-27 11:47:00,366,Lucky Time,1,1,3.2
+Capalaba,2,2025-08-27 11:47:00,366,Orlando Beach,2,2,3.8
+Capalaba,2,2025-08-27 11:47:00,366,Maywyn Leo,3,3,7
+Capalaba,2,2025-08-27 11:47:00,366,Clean Air,4,4,10
+Capalaba,2,2025-08-27 11:47:00,366,Graphite,5,5,15
+Capalaba,2,2025-08-27 11:47:00,366,Blue Fifty,6,6,7.5
+Capalaba,2,2025-08-27 11:47:00,366,Flying Argos,7,7,5
+Capalaba,2,2025-08-27 11:47:00,366,Maywyn's Mondeo,8,8,6.5
+Capalaba,3,2025-08-27 12:03:00,366,So Simple,1,1,2.7
+Capalaba,3,2025-08-27 12:03:00,366,Cabarita Beach,2,2,2.4
+Capalaba,3,2025-08-27 12:03:00,366,Lilly Dragon,3,3,2.3
+Capalaba,3,2025-08-27 12:03:00,366,Black Harada,4,4,19
+Capalaba,3,2025-08-27 12:03:00,366,Turbo Express,5,5,71
+Capalaba,3,2025-08-27 12:03:00,366,Red Hot Kiwi,6,6,26
+Capalaba,3,2025-08-27 12:03:00,366,Boom Boom Bernie,7,7,31
+Capalaba,3,2025-08-27 12:03:00,366,Mum's Tiger,8,8,51
+Gunnedah,1,2025-08-27 15:07:00,527,Jungle Miss,1,1,9
+Gunnedah,1,2025-08-27 15:07:00,527,Snooping,2,2,2.05
+Gunnedah,1,2025-08-27 15:07:00,527,Motor City Tig,4,4,11
+Gunnedah,1,2025-08-27 15:07:00,527,Zipping Frida,5,5,7
+Gunnedah,1,2025-08-27 15:07:00,527,Time To Crank,7,7,4.6
+Gunnedah,1,2025-08-27 15:07:00,527,Wreck It Rex,8,8,2.8
+Gunnedah,2,2025-08-27 15:25:00,340,Alipio Blue,1,1,10
+Gunnedah,2,2025-08-27 15:25:00,340,Wolf Rock,2,2,41
+Gunnedah,2,2025-08-27 15:25:00,340,Blue Hills,3,3,20
+Gunnedah,2,2025-08-27 15:25:00,340,All About Piper,4,4,10
+Gunnedah,2,2025-08-27 15:25:00,340,Scootin' Scooby,5,5,1.34
+Gunnedah,2,2025-08-27 15:25:00,340,Flying Tango,6,6,9
+Gunnedah,2,2025-08-27 15:25:00,340,Aunty Eve,7,7,4.6
+Gunnedah,2,2025-08-27 15:25:00,340,Greysynd Gina,8,8,7.5
+Gunnedah,3,2025-08-27 15:42:00,340,Five Mile Rose,1,1,2.9
+Gunnedah,3,2025-08-27 15:42:00,340,Rock Artist,2,2,4.6
+Gunnedah,3,2025-08-27 15:42:00,340,Steel Boots,3,3,20
+Gunnedah,3,2025-08-27 15:42:00,340,Karinya Mick,4,4,41
+Gunnedah,3,2025-08-27 15:42:00,340,Betty Bush,5,5,3
+Gunnedah,3,2025-08-27 15:42:00,340,Rocky Banner,6,6,16
+Gunnedah,3,2025-08-27 15:42:00,340,Levings,7,7,3.1
+Gunnedah,3,2025-08-27 15:42:00,340,Ballina,8,8,18
+Gunnedah,4,2025-08-27 16:00:00,431,His Fernando,1,1,2.2
+Gunnedah,4,2025-08-27 16:00:00,431,Fancy Chick,2,2,13
+Gunnedah,4,2025-08-27 16:00:00,431,Limbunya,3,3,34
+Gunnedah,4,2025-08-27 16:00:00,431,Ash Tray Change,4,4,3.3
+Gunnedah,4,2025-08-27 16:00:00,431,Cash Run,5,5,3.8
+Gunnedah,4,2025-08-27 16:00:00,431,Stilton Evie,6,6,10
+Gunnedah,4,2025-08-27 16:00:00,431,Sweet Bevely Ann,7,7,34
+Gunnedah,4,2025-08-27 16:00:00,431,Bandit Bugsy,8,8,4.8
+Gunnedah,5,2025-08-27 16:17:00,431,Bin Night,1,1,7.5
+Gunnedah,5,2025-08-27 16:17:00,431,Merger,2,2,3.9
+Gunnedah,5,2025-08-27 16:17:00,431,Snidely Whiplash,3,3,5.5
+Gunnedah,5,2025-08-27 16:17:00,431,Lumeah Ziggy,4,4,4.4
+Gunnedah,5,2025-08-27 16:17:00,431,Midnight Hazard,5,5,6.5
+Gunnedah,5,2025-08-27 16:17:00,431,Genuine Article,6,6,3.5
+Gunnedah,5,2025-08-27 16:17:00,431,Robbie's Power,7,7,6
+Gunnedah,5,2025-08-27 16:17:00,431,Imperial Audrey,8,8,10
+Gunnedah,6,2025-08-27 16:35:00,340,Ebb And Flow,1,1,5
+Gunnedah,6,2025-08-27 16:35:00,340,Quick Edition,2,2,3.9
+Gunnedah,6,2025-08-27 16:35:00,340,Shearwater Inn,3,3,12
+Gunnedah,6,2025-08-27 16:35:00,340,Sketchy Sister,4,4,4.2
+Gunnedah,6,2025-08-27 16:35:00,340,Quite Promising,5,5,15
+Gunnedah,6,2025-08-27 16:35:00,340,Split 'Em,6,6,9
+Gunnedah,6,2025-08-27 16:35:00,340,Gold Miner,7,7,2.35
+Gunnedah,6,2025-08-27 16:35:00,340,Sketchy Stories,8,8,13
+Gunnedah,7,2025-08-27 16:52:00,340,Mortar,1,1,2.9
+Gunnedah,7,2025-08-27 16:52:00,340,Tractor Sam,2,2,4
+Gunnedah,7,2025-08-27 16:52:00,340,Charge The Card,3,3,4.8
+Gunnedah,7,2025-08-27 16:52:00,340,Settle,4,4,4.8
+Gunnedah,7,2025-08-27 16:52:00,340,Marvellous Mel,5,5,21
+Gunnedah,7,2025-08-27 16:52:00,340,Jungle Tiger,6,6,4.2
+Gunnedah,7,2025-08-27 16:52:00,340,I'm Cheeky,7,7,5
+Gunnedah,7,2025-08-27 16:52:00,340,Lumeah Poppy,8,8,21
+Gunnedah,8,2025-08-27 17:10:00,340,Cowboy Carter,1,1,1.7
+Gunnedah,8,2025-08-27 17:10:00,340,Mulwee Maudie,2,2,61
+Gunnedah,8,2025-08-27 17:10:00,340,Raven Nighthawk,3,3,3.2
+Gunnedah,8,2025-08-27 17:10:00,340,Unpublish Rhyme,4,4,4.6
+Gunnedah,8,2025-08-27 17:10:00,340,One Number Away,5,5,31
+Gunnedah,8,2025-08-27 17:10:00,340,Di's An Angel,6,6,11
+Gunnedah,8,2025-08-27 17:10:00,340,Lumeah Taylor,7,7,8.5
+Gunnedah,8,2025-08-27 17:10:00,340,Zulu May,8,8,23
+Gunnedah,9,2025-08-27 17:31:00,340,Moonshine Man,1,1,21
+Gunnedah,9,2025-08-27 17:31:00,340,Dam Panama,2,2,3.2
+Gunnedah,9,2025-08-27 17:31:00,340,Peyton's Wish,3,3,16
+Gunnedah,9,2025-08-27 17:31:00,340,Jamaica Rum,4,4,5
+Gunnedah,9,2025-08-27 17:31:00,340,Toni Fiesta,5,5,31
+Gunnedah,9,2025-08-27 17:31:00,340,Barack Express,6,6,4
+Gunnedah,9,2025-08-27 17:31:00,340,Set To Dance,7,7,13
+Gunnedah,9,2025-08-27 17:31:00,340,Bear Man,8,8,2.35
+Gunnedah,10,2025-08-27 17:50:00,340,Watch The Speed,1,1,18
+Gunnedah,10,2025-08-27 17:50:00,340,Snowfest,2,2,3.4
+Gunnedah,10,2025-08-27 17:50:00,340,Royman,3,3,1.4
+Gunnedah,10,2025-08-27 17:50:00,340,Django Riggs,4,4,17
+Gunnedah,10,2025-08-27 17:50:00,340,Big Del,5,5,8.5
+Gunnedah,10,2025-08-27 17:50:00,340,Chana Bomb,6,6,13
+Gunnedah,10,2025-08-27 17:50:00,340,Vitality Blast,7,7,31
+Gunnedah,10,2025-08-27 17:50:00,340,Zara Go On,8,8,21
+Gunnedah,11,2025-08-27 18:11:00,340,Walk The Talk,1,1,1.5
+Gunnedah,11,2025-08-27 18:11:00,340,Buddy Mac,2,2,3.8
+Gunnedah,11,2025-08-27 18:11:00,340,Solicitor,3,3,10
+Gunnedah,11,2025-08-27 18:11:00,340,Evie's Promise,4,4,31
+Gunnedah,11,2025-08-27 18:11:00,340,Final Countdown,5,5,20
+Gunnedah,11,2025-08-27 18:11:00,340,Spirit Chana,6,6,26
+Gunnedah,11,2025-08-27 18:11:00,340,Salamat,7,7,5.5
+Gunnedah,11,2025-08-27 18:11:00,340,Hip Drop,8,8,8.5
+Gunnedah,12,2025-08-27 18:28:00,340,Little Miss Ando,1,1,4.8
+Gunnedah,12,2025-08-27 18:28:00,340,Ava's Milo,2,2,2
+Gunnedah,12,2025-08-27 18:28:00,340,Damaged Panel,3,3,51
+Gunnedah,12,2025-08-27 18:28:00,340,Audition Day,4,4,1.9
+Gunnedah,12,2025-08-27 18:28:00,340,Lidcombe Babe,5,5,9
+Gunnedah,12,2025-08-27 18:28:00,340,Swift Sharon,6,6,81
+Gunnedah,12,2025-08-27 18:28:00,340,Northern Tiger,7,7,34
+Gunnedah,12,2025-08-27 18:28:00,340,Corbert's Girl,8,8,26
+Richmond,1,2025-08-27 19:04:00,401,Morning Daylight,1,1,1.12
+Richmond,1,2025-08-27 19:04:00,401,Tommy's Done,2,2,20
+Richmond,1,2025-08-27 19:04:00,401,She's The Best,3,3,21
+Richmond,1,2025-08-27 19:04:00,401,Infuriate,4,4,9
+Richmond,1,2025-08-27 19:04:00,401,Dawn's Boy,5,5,19
+Richmond,1,2025-08-27 19:04:00,401,Tap Out Tiffy,6,6,7
+Richmond,1,2025-08-27 19:04:00,401,Lock Star,7,7,19
+Richmond,1,2025-08-27 19:04:00,401,Terra May,8,8,9
+Richmond,2,2025-08-27 19:28:00,320,Winsome Storm,1,1,3.7
+Richmond,2,2025-08-27 19:28:00,320,Winsome Jet,2,2,1.75
+Richmond,2,2025-08-27 19:28:00,320,Phoenix Moon,3,3,91
+Richmond,2,2025-08-27 19:28:00,320,Winsome Rambo,4,4,3
+Richmond,2,2025-08-27 19:28:00,320,Cash De Oro,5,5,5.5
+Richmond,2,2025-08-27 19:28:00,320,Bobby Junior,6,6,91
+Richmond,2,2025-08-27 19:28:00,320,Erina Flash,7,7,91
+Richmond,2,2025-08-27 19:28:00,320,What's The Story,8,8,23
+Richmond,3,2025-08-27 19:46:00,520,Zipping Ruffian,1,1,4.6
+Richmond,3,2025-08-27 19:46:00,520,Market Maverick,2,2,1.55
+Richmond,3,2025-08-27 19:46:00,520,Zipping Red Rum,3,3,12
+Richmond,3,2025-08-27 19:46:00,520,Mrs. Buttons,4,4,10
+Richmond,3,2025-08-27 19:46:00,520,Spin Around Blue,6,6,3.8
+Richmond,3,2025-08-27 19:46:00,520,Kessler,7,7,21
+Richmond,3,2025-08-27 19:46:00,520,Missile Boy,8,8,12
+Richmond,4,2025-08-27 20:05:00,520,Tap Out Kitty,1,1,17
+Richmond,4,2025-08-27 20:05:00,520,Test Drive,2,2,2.3
+Richmond,4,2025-08-27 20:05:00,520,Ice Cream Joe,3,3,4.2
+Richmond,4,2025-08-27 20:05:00,520,Dance The Night,4,4,16
+Richmond,4,2025-08-27 20:05:00,520,Zipping Babe,6,6,2.35
+Richmond,4,2025-08-27 20:05:00,520,Dreams Come True,7,7,14
+Richmond,4,2025-08-27 20:05:00,520,Cheri Pop,8,8,9.5
+Richmond,5,2025-08-27 20:25:00,520,Pretty Shy,1,1,71
+Richmond,5,2025-08-27 20:25:00,520,Ferocious Wave,2,2,16
+Richmond,5,2025-08-27 20:25:00,520,Crawford,3,3,2.9
+Richmond,5,2025-08-27 20:25:00,520,Radetzky March,4,4,2.6
+Richmond,5,2025-08-27 20:25:00,520,Lailai Marama,5,5,13
+Richmond,5,2025-08-27 20:25:00,520,Wangaroa Wally,6,6,6.5
+Richmond,5,2025-08-27 20:25:00,520,Zipping Schultz,7,7,21
+Richmond,5,2025-08-27 20:25:00,520,Zipping Zeyatta,8,8,3
+Richmond,6,2025-08-27 20:45:00,320,Milo Rules,1,1,6.5
+Richmond,6,2025-08-27 20:45:00,320,Near Impossible,2,2,8.5
+Richmond,6,2025-08-27 20:45:00,320,She's Our Joy,3,3,21
+Richmond,6,2025-08-27 20:45:00,320,Minter Shine,4,4,9
+Richmond,6,2025-08-27 20:45:00,320,Lady Chaos,5,5,10
+Richmond,6,2025-08-27 20:45:00,320,Miss Cherry,6,6,20
+Richmond,6,2025-08-27 20:45:00,320,My Friend Bec,7,7,1.24
+Richmond,6,2025-08-27 20:45:00,320,Surroundings,8,8,15
+Richmond,7,2025-08-27 21:05:00,320,Cheeky Sloy,1,1,8.5
+Richmond,7,2025-08-27 21:05:00,320,Loco Express,2,2,6
+Richmond,7,2025-08-27 21:05:00,320,Trip Hazard,3,3,17
+Richmond,7,2025-08-27 21:05:00,320,Not So Silent,4,4,8.5
+Richmond,7,2025-08-27 21:05:00,320,Out Pace,5,5,13
+Richmond,7,2025-08-27 21:05:00,320,Simply The Best,6,6,2.1
+Richmond,7,2025-08-27 21:05:00,320,Cochise Squaw,7,7,9
+Richmond,7,2025-08-27 21:05:00,320,Fantasia Queen,8,8,3
+Richmond,8,2025-08-27 21:25:00,520,Hello How Low,1,1,8
+Richmond,8,2025-08-27 21:25:00,520,Buzzing,2,2,20
+Richmond,8,2025-08-27 21:25:00,520,Jack Jack,3,3,1.09
+Richmond,8,2025-08-27 21:25:00,520,Dire,4,4,16
+Richmond,8,2025-08-27 21:25:00,520,Calla Otis,6,6,26
+Richmond,8,2025-08-27 21:25:00,520,Calla Tilly,7,7,16
+Richmond,8,2025-08-27 21:25:00,520,Big Bernie,8,8,7.5
+Richmond,9,2025-08-27 21:43:00,320,Three Hundred,1,1,11
+Richmond,9,2025-08-27 21:43:00,320,Archer Ten,2,2,14
+Richmond,9,2025-08-27 21:43:00,320,Stephen Witherap,3,3,3.7
+Richmond,9,2025-08-27 21:43:00,320,Truly Desire,4,4,41
+Richmond,9,2025-08-27 21:43:00,320,Run For Dad,5,5,19
+Richmond,9,2025-08-27 21:43:00,320,Winsome Wanda,6,6,1.4
+Richmond,9,2025-08-27 21:43:00,320,Montana Banner,7,7,12
+Richmond,9,2025-08-27 21:43:00,320,Tap Out Boston,8,8,8.5
+Richmond,10,2025-08-27 22:02:00,401,Almost,1,1,3.8
+Richmond,10,2025-08-27 22:02:00,401,Aussie Jade,2,2,21
+Richmond,10,2025-08-27 22:02:00,401,Souls On Fire,3,3,4.6
+Richmond,10,2025-08-27 22:02:00,401,All The Cash,4,4,12
+Richmond,10,2025-08-27 22:02:00,401,Cash Chaser,5,5,8.5
+Richmond,10,2025-08-27 22:02:00,401,Cold Hard Cash,6,6,5.5
+Richmond,10,2025-08-27 22:02:00,401,Sammy My Boy,7,7,3.1
+Richmond,10,2025-08-27 22:02:00,401,Cait Rod's Fly,8,8,3.8
+Richmond,11,2025-08-27 22:20:00,401,Gengar Wave,1,1,2
+Richmond,11,2025-08-27 22:20:00,401,Open Road,2,2,11
+Richmond,11,2025-08-27 22:20:00,401,Tumby Bay,3,3,14
+Richmond,11,2025-08-27 22:20:00,401,Bradshaw,4,4,5
+Richmond,11,2025-08-27 22:20:00,401,Calla Oreo,5,5,4.4
+Richmond,11,2025-08-27 22:20:00,401,Live And Free,6,6,0
+Richmond,11,2025-08-27 22:20:00,401,Tatiana,7,7,18
+Richmond,11,2025-08-27 22:20:00,401,Emgrand Drive,8,8,3.5
+Richmond,12,2025-08-27 22:39:00,401,Canya Rapid Fire,1,1,4.4
+Richmond,12,2025-08-27 22:39:00,401,Zipping Botham,2,2,1.85
+Richmond,12,2025-08-27 22:39:00,401,Tommy's Dawn,3,3,16
+Richmond,12,2025-08-27 22:39:00,401,Bakerloo Boy,4,4,15
+Richmond,12,2025-08-27 22:39:00,401,Fantastic Maxine,5,5,34
+Richmond,12,2025-08-27 22:39:00,401,Nevermore,6,6,12
+Richmond,12,2025-08-27 22:39:00,401,New Surprise,7,7,4.6
+Richmond,12,2025-08-27 22:39:00,401,Zig Zag Zoey,8,8,4.4
+Sale,1,2025-08-27 11:20:00,435,Chorus Line,1,1,2.35
+Sale,1,2025-08-27 11:20:00,435,Green Shoots,2,2,2.45
+Sale,1,2025-08-27 11:20:00,435,Dundee Sterling,3,3,12
+Sale,1,2025-08-27 11:20:00,435,Evelyn Annie,4,4,4.6
+Sale,1,2025-08-27 11:20:00,435,Riverbank Sandy,5,5,0
+Sale,1,2025-08-27 11:20:00,435,Dr. Yamir,9,5,6.5
+Sale,1,2025-08-27 11:20:00,435,Dr. Rafaela,6,6,26
+Sale,1,2025-08-27 11:20:00,435,Collinda Flick,7,7,16
+Sale,1,2025-08-27 11:20:00,435,Awesome Bindi,8,8,21
+Sale,2,2025-08-27 11:36:00,435,Sugar Plum Rose,1,1,4.6
+Sale,2,2025-08-27 11:36:00,435,Be You,2,2,12
+Sale,2,2025-08-27 11:36:00,435,Delusional,3,3,9
+Sale,2,2025-08-27 11:36:00,435,Taylor's Girl,4,4,4.2
+Sale,2,2025-08-27 11:36:00,435,Be A Cowboy,5,5,9.5
+Sale,2,2025-08-27 11:36:00,435,Windorah,6,6,6.5
+Sale,2,2025-08-27 11:36:00,435,Herbie,7,7,3.5
+Sale,2,2025-08-27 11:36:00,435,Miss Indi Bear,8,8,3.8
+Sale,3,2025-08-27 11:54:00,435,Kaia Got Square,1,1,4.6
+Sale,3,2025-08-27 11:54:00,435,Jovial Gem,2,2,10
+Sale,3,2025-08-27 11:54:00,435,Collinda Blinder,3,3,2.05
+Sale,3,2025-08-27 11:54:00,435,Dr. Anne,4,4,17
+Sale,3,2025-08-27 11:54:00,435,Aston Cleese,5,5,4.6
+Sale,3,2025-08-27 11:54:00,435,Wrong Missy,6,6,26
+Sale,3,2025-08-27 11:54:00,435,Dr. Cougar,7,7,4
+Sale,3,2025-08-27 11:54:00,435,Dr. Maniac,8,8,9.5
+Sale,4,2025-08-27 12:10:00,435,Midnight Shimmer,1,1,5.5
+Sale,4,2025-08-27 12:10:00,435,Inter Cyborg,2,2,4.4
+Sale,4,2025-08-27 12:10:00,435,Poppy's Pal,3,3,4
+Sale,4,2025-08-27 12:10:00,435,Disco Gizmo,4,4,9
+Sale,4,2025-08-27 12:10:00,435,Somerton June,5,5,3.8
+Sale,4,2025-08-27 12:10:00,435,Money Machine,6,6,3.4
+Sale,4,2025-08-27 12:10:00,435,Black Pistol,7,7,11
+Sale,4,2025-08-27 12:10:00,435,Be Rugged,8,8,19
+Sale,5,2025-08-27 12:27:00,510,Hawkeyed Kid,1,1,2.7
+Sale,5,2025-08-27 12:27:00,510,Brocky Sands,2,2,4.4
+Sale,5,2025-08-27 12:27:00,510,Our Tiger Norma,3,3,21
+Sale,5,2025-08-27 12:27:00,510,Miss Daicos,4,4,12
+Sale,5,2025-08-27 12:27:00,510,Princess Lass,5,5,2
+Sale,5,2025-08-27 12:27:00,510,Winckie Bale,6,6,0
+Sale,5,2025-08-27 12:27:00,510,Ranger's Girl,7,7,13
+Sale,5,2025-08-27 12:27:00,510,Ballymac Storm,8,8,7.5
+Sale,6,2025-08-27 12:46:00,510,Dignity Prevails,1,1,20
+Sale,6,2025-08-27 12:46:00,510,Somerton Teddy,2,2,5
+Sale,6,2025-08-27 12:46:00,510,Green Frog Cafe,3,3,3.9
+Sale,6,2025-08-27 12:46:00,510,Stockman George,4,4,1.3
+Sale,6,2025-08-27 12:46:00,510,Dr. Hopper,6,6,0
+Sale,6,2025-08-27 12:46:00,510,Hard Copy,7,7,20
+Sale,6,2025-08-27 12:46:00,510,Yorkshire Girl,8,8,20
+Sale,7,2025-08-27 13:05:00,435,Aston Chant,1,1,2.8
+Sale,7,2025-08-27 13:05:00,435,Our Mabel,2,2,6.5
+Sale,7,2025-08-27 13:05:00,435,Jack Hook,3,3,19
+Sale,7,2025-08-27 13:05:00,435,Akina Jazz,4,4,31
+Sale,7,2025-08-27 13:05:00,435,Kokoda Trail,5,5,19
+Sale,7,2025-08-27 13:05:00,435,Holly Rose,6,6,3.4
+Sale,7,2025-08-27 13:05:00,435,Sally Can Wait,7,7,4.6
+Sale,7,2025-08-27 13:05:00,435,Xatu Bale,8,8,3.4
+Sale,8,2025-08-27 13:22:00,510,Gin Chaser,1,1,2.8
+Sale,8,2025-08-27 13:22:00,510,Splashed,2,2,2.15
+Sale,8,2025-08-27 13:22:00,510,Jairon Bale,3,3,19
+Sale,8,2025-08-27 13:22:00,510,Steele Jakit,4,4,6
+Sale,8,2025-08-27 13:22:00,510,Madalia Tipper,6,6,41
+Sale,8,2025-08-27 13:22:00,510,Smooth Ranger,7,7,3.9
+Sale,8,2025-08-27 13:22:00,510,Madalia Snoopy,8,8,11
+Sale,9,2025-08-27 13:47:00,435,Dr. Angelo,1,1,6.5
+Sale,9,2025-08-27 13:47:00,435,Whisky Ninja,2,2,0
+Sale,9,2025-08-27 13:47:00,435,Hammer Rose,3,3,3.3
+Sale,9,2025-08-27 13:47:00,435,Collinda Dougie,4,4,3
+Sale,9,2025-08-27 13:47:00,435,Christa's Girl,5,5,21
+Sale,9,2025-08-27 13:47:00,435,Dr. Buck,6,6,3.6
+Sale,9,2025-08-27 13:47:00,435,Magical Paws,7,7,17
+Sale,9,2025-08-27 13:47:00,435,Two Boo Hook,8,8,4
+Sale,10,2025-08-27 14:07:00,435,Computer Model,1,1,1.65
+Sale,10,2025-08-27 14:07:00,435,Swooping Swan,2,2,6
+Sale,10,2025-08-27 14:07:00,435,Roman Empire,3,3,16
+Sale,10,2025-08-27 14:07:00,435,Scooba Steve,4,4,3.9
+Sale,10,2025-08-27 14:07:00,435,Dr. Gabriella,6,6,14
+Sale,10,2025-08-27 14:07:00,435,Codicil,7,7,8.5
+Sale,10,2025-08-27 14:07:00,435,Socks And Slides,8,8,7.5
+Sale,11,2025-08-27 14:29:00,435,Neena Bale,1,1,6
+Sale,11,2025-08-27 14:29:00,435,Ace Of Pace,2,2,2.3
+Sale,11,2025-08-27 14:29:00,435,Ruptured,3,3,15
+Sale,11,2025-08-27 14:29:00,435,Irinka Ashley,4,4,4.6
+Sale,11,2025-08-27 14:29:00,435,Elsie Dreaming,5,5,10
+Sale,11,2025-08-27 14:29:00,435,Heyfield Honey,6,6,0
+Sale,11,2025-08-27 14:29:00,435,Jayville Zoe,7,7,5
+Sale,11,2025-08-27 14:29:00,435,Parumba Cha Cha,8,8,3.6
+Sale,12,2025-08-27 14:50:00,435,Sweet Tonight,1,1,7.5
+Sale,12,2025-08-27 14:50:00,435,I'm A Treasure,2,2,4.6
+Sale,12,2025-08-27 14:50:00,435,Zorbas Bale,3,3,2.35
+Sale,12,2025-08-27 14:50:00,435,Slow Cheetah,4,4,4.4
+Sale,12,2025-08-27 14:50:00,435,Paw Ursula,5,5,4.2
+Sale,12,2025-08-27 14:50:00,435,Locked And Ready,6,6,16
+Sale,12,2025-08-27 14:50:00,435,Be A Character,7,7,11
+Sale,12,2025-08-27 14:50:00,435,Dr. Ducky,8,8,10
+Taree,1,2025-08-27 18:52:00,300,Tuncurry Blue,1,1,3.8
+Taree,1,2025-08-27 18:52:00,300,Lost Compass,2,2,5.5
+Taree,1,2025-08-27 18:52:00,300,Whiskey Agogo,3,3,6
+Taree,1,2025-08-27 18:52:00,300,Buffalina,9,4,20
+Taree,1,2025-08-27 18:52:00,300,Egyptian Queen,4,4,0
+Taree,1,2025-08-27 18:52:00,300,Elf Magic,5,5,9.5
+Taree,1,2025-08-27 18:52:00,300,Blocker Perry,6,6,15
+Taree,1,2025-08-27 18:52:00,300,Pouring Rain,7,7,11
+Taree,1,2025-08-27 18:52:00,300,Golden Pharaoh,8,8,1.8
+Taree,2,2025-08-27 19:10:00,300,She's A Bumpy,1,1,1.26
+Taree,2,2025-08-27 19:10:00,300,Tina Be Good,2,2,5.5
+Taree,2,2025-08-27 19:10:00,300,Giggling Dixie,4,4,21
+Taree,2,2025-08-27 19:10:00,300,Twelve Men,5,5,10
+Taree,2,2025-08-27 19:10:00,300,Coin Counter,7,7,4.8
+Taree,2,2025-08-27 19:10:00,300,Good Pub Feed,8,8,11
+Taree,3,2025-08-27 19:34:00,300,Starlight Duke,1,1,4.8
+Taree,3,2025-08-27 19:34:00,300,Colin Keeping,2,2,4.8
+Taree,3,2025-08-27 19:34:00,300,Frank Chana,3,3,21
+Taree,3,2025-08-27 19:34:00,300,Not A Boodie,4,4,11
+Taree,3,2025-08-27 19:34:00,300,Blue Majestic,5,5,3.1
+Taree,3,2025-08-27 19:34:00,300,Family Crest,6,6,3.8
+Taree,3,2025-08-27 19:34:00,300,Nabiac Jack,7,7,5
+Taree,3,2025-08-27 19:34:00,300,Semtex,8,8,6
+Taree,4,2025-08-27 19:54:00,300,Bentley Elsa,1,1,5
+Taree,4,2025-08-27 19:54:00,300,Ocean's Pearl,2,2,1.7
+Taree,4,2025-08-27 19:54:00,300,Boots And All,3,3,41
+Taree,4,2025-08-27 19:54:00,300,Cyclone Sebas,4,4,5
+Taree,4,2025-08-27 19:54:00,300,Ella Black,5,5,17
+Taree,4,2025-08-27 19:54:00,300,Reel'em Oreo,6,6,8.5
+Taree,4,2025-08-27 19:54:00,300,Pop's Big Guy,7,7,6
+Taree,4,2025-08-27 19:54:00,300,Pirate Riot,8,8,7
+Taree,5,2025-08-27 20:12:00,300,Lenny Keeping,1,1,6.5
+Taree,5,2025-08-27 20:12:00,300,Let's Trot Will,2,2,7
+Taree,5,2025-08-27 20:12:00,300,Majestic Fred,3,3,6
+Taree,5,2025-08-27 20:12:00,300,Extra Voltage,4,4,1.4
+Taree,5,2025-08-27 20:12:00,300,Barefoot Gypsy,5,5,8
+Taree,5,2025-08-27 20:12:00,300,Al Can Do,6,6,20
+Taree,5,2025-08-27 20:12:00,300,Reel 'Em Zena,7,7,20
+Taree,5,2025-08-27 20:12:00,300,Girl Rolex,8,8,20
+Taree,6,2025-08-27 20:31:00,525,Witch Rolex,1,1,4.4
+Taree,6,2025-08-27 20:31:00,525,Boss Confetti,2,2,9
+Taree,6,2025-08-27 20:31:00,525,Lornett Swift,4,4,21
+Taree,6,2025-08-27 20:31:00,525,Island Princess,5,5,4.6
+Taree,6,2025-08-27 20:31:00,525,Cold Cold Night,7,7,1.45
+Taree,6,2025-08-27 20:31:00,525,Burst On Turbo,8,8,9
+Taree,7,2025-08-27 20:51:00,525,Nan's Me Barber,1,1,11
+Taree,7,2025-08-27 20:51:00,525,Sunshine Rhonda,2,2,3.3
+Taree,7,2025-08-27 20:51:00,525,Oxley Flyer,3,3,6
+Taree,7,2025-08-27 20:51:00,525,All Out Fire,4,4,4.4
+Taree,7,2025-08-27 20:51:00,525,Snacks,6,6,21
+Taree,7,2025-08-27 20:51:00,525,Simplicity Magic,7,7,2.15
+Taree,7,2025-08-27 20:51:00,525,Last Shot Ripper,8,8,9.5
+Taree,8,2025-08-27 21:14:00,525,Major Flirt,1,1,2.6
+Taree,8,2025-08-27 21:14:00,525,Out The Will,2,2,5.5
+Taree,8,2025-08-27 21:14:00,525,Black Book It,3,3,4.6
+Taree,8,2025-08-27 21:14:00,525,Flying Goddess,4,4,3.8
+Taree,8,2025-08-27 21:14:00,525,Lottie Ellie,5,5,8
+Taree,8,2025-08-27 21:14:00,525,Kiarni Phantom,6,6,21
+Taree,8,2025-08-27 21:14:00,525,Past Tense,7,7,6
+Taree,8,2025-08-27 21:14:00,525,Kiarni Bad Girl,8,8,10
+Taree,9,2025-08-27 21:37:00,300,Sunset Panama,1,1,7.5
+Taree,9,2025-08-27 21:37:00,300,Let's Go Luke,2,2,4.8
+Taree,9,2025-08-27 21:37:00,300,Reel'em George,3,3,2.6
+Taree,9,2025-08-27 21:37:00,300,Dynamic Rebel,4,4,8.5
+Taree,9,2025-08-27 21:37:00,300,Wonder Kid,5,5,12
+Taree,9,2025-08-27 21:37:00,300,No Shares,6,6,6
+Taree,9,2025-08-27 21:37:00,300,Overriding,7,7,3.8
+Taree,9,2025-08-27 21:37:00,300,Katie's Quick,8,8,9
+Taree,10,2025-08-27 21:56:00,300,Reel 'Em Sissy,1,1,2.8
+Taree,10,2025-08-27 21:56:00,300,Wally Wombat,2,2,23
+Taree,10,2025-08-27 21:56:00,300,Aston President,3,3,3.5
+Taree,10,2025-08-27 21:56:00,300,Majestic Jojo,4,4,3.8
+Taree,10,2025-08-27 21:56:00,300,She's Silky,5,5,9.5
+Taree,10,2025-08-27 21:56:00,300,Diva's Shine,6,6,21
+Taree,10,2025-08-27 21:56:00,300,Kiarni Bolt,7,7,11
+Taree,10,2025-08-27 21:56:00,300,Majestic Tyson,8,8,4.2
+Taree,11,2025-08-27 22:14:00,300,Anguilliformes,1,1,1.95
+Taree,11,2025-08-27 22:14:00,300,Norbert Bale,2,2,9
+Taree,11,2025-08-27 22:14:00,300,Lucky Bundy,3,3,4.8
+Taree,11,2025-08-27 22:14:00,300,Awesome World,4,4,5
+Taree,11,2025-08-27 22:14:00,300,Tralee Paris,5,5,23
+Taree,11,2025-08-27 22:14:00,300,Lady Reign,6,6,6
+Taree,11,2025-08-27 22:14:00,300,What About Pablo,7,7,15
+Taree,11,2025-08-27 22:14:00,300,Jet Keen,8,8,5
+Taree,12,2025-08-27 22:32:00,300,Teeny Tippett,1,1,6.5
+Taree,12,2025-08-27 22:32:00,300,It's Not Messi,2,2,2.6
+Taree,12,2025-08-27 22:32:00,300,Star Unleashed,3,3,13
+Taree,12,2025-08-27 22:32:00,300,Mazzara,4,4,10
+Taree,12,2025-08-27 22:32:00,300,Red Rudolph,5,5,13
+Taree,12,2025-08-27 22:32:00,300,Kiss Me Quick,6,6,21
+Taree,12,2025-08-27 22:32:00,300,Zipping Astrid,7,7,3.7
+Taree,12,2025-08-27 22:32:00,300,Marvellous Dunn,8,8,3.2
+Temora,1,2025-08-27 12:38:00,330,Smokin' Wal,1,1,2.5
+Temora,1,2025-08-27 12:38:00,330,Sycamore Twinkle,2,2,51
+Temora,1,2025-08-27 12:38:00,330,Jacobite Knife,3,3,5
+Temora,1,2025-08-27 12:38:00,330,Baz Intention,4,4,4.8
+Temora,1,2025-08-27 12:38:00,330,Itchy Knee Sung,5,5,3.1
+Temora,1,2025-08-27 12:38:00,330,Reefton Wrecker,6,6,61
+Temora,1,2025-08-27 12:38:00,330,Irinka Mandy,7,7,4
+Temora,1,2025-08-27 12:38:00,330,Count Joker,8,8,14
+Temora,2,2025-08-27 12:57:00,457,Alcazar,1,1,21
+Temora,2,2025-08-27 12:57:00,457,Irinka Fred,2,2,2.7
+Temora,2,2025-08-27 12:57:00,457,Magic Breakout,4,4,6
+Temora,2,2025-08-27 12:57:00,457,Sammy The Bull,5,5,8
+Temora,2,2025-08-27 12:57:00,457,Devotional,7,7,4.6
+Temora,2,2025-08-27 12:57:00,457,Temora Terror,8,8,2.2
+Temora,3,2025-08-27 13:19:00,457,Hurdling Harold,1,1,31
+Temora,3,2025-08-27 13:19:00,457,Miss Crawley,2,2,9.5
+Temora,3,2025-08-27 13:19:00,457,Irinka Brett,3,3,1.75
+Temora,3,2025-08-27 13:19:00,457,Rockholes Viv,4,4,23
+Temora,3,2025-08-27 13:19:00,457,Irinka Wayne,6,6,4.8
+Temora,3,2025-08-27 13:19:00,457,Neymar Nismo,7,7,5.5
+Temora,3,2025-08-27 13:19:00,457,Phoenix Silver,8,8,3.3
+Temora,4,2025-08-27 13:40:00,330,Lone Chime,1,1,4
+Temora,4,2025-08-27 13:40:00,330,Razzle Ann,2,2,15
+Temora,4,2025-08-27 13:40:00,330,Manila Shelby,3,3,21
+Temora,4,2025-08-27 13:40:00,330,Only Ollie,4,4,13
+Temora,4,2025-08-27 13:40:00,330,Cawbourne Chad,5,5,4.2
+Temora,4,2025-08-27 13:40:00,330,Sasha Keeping,6,6,2.05
+Temora,4,2025-08-27 13:40:00,330,Sycamore Riggles,7,7,9
+Temora,4,2025-08-27 13:40:00,330,Gonski,8,8,4.8
+Temora,5,2025-08-27 13:57:00,330,Polka Dot Pink,1,1,4
+Temora,5,2025-08-27 13:57:00,330,Westside Babe,2,2,7
+Temora,5,2025-08-27 13:57:00,330,My Rupee,3,3,3.3
+Temora,5,2025-08-27 13:57:00,330,Just A Dazzler,4,4,4.6
+Temora,5,2025-08-27 13:57:00,330,Calculus,5,5,12
+Temora,5,2025-08-27 13:57:00,330,Sophie's Desire,6,6,3.7
+Temora,5,2025-08-27 13:57:00,330,Dana Jay,7,7,12
+Temora,5,2025-08-27 13:57:00,330,Lagoon Ohiyesa,8,8,11
+Temora,6,2025-08-27 14:22:00,330,Aston Outlay,1,1,3.6
+Temora,6,2025-08-27 14:22:00,330,Dark Panther,2,2,2
+Temora,6,2025-08-27 14:22:00,330,Buddy Moses,3,3,5.5
+Temora,6,2025-08-27 14:22:00,330,Dana Pauline,4,4,26
+Temora,6,2025-08-27 14:22:00,330,Dana Curly,5,5,21
+Temora,6,2025-08-27 14:22:00,330,Kim's Chance,6,6,5.5
+Temora,6,2025-08-27 14:22:00,330,Dolly's Hope,7,7,10
+Temora,6,2025-08-27 14:22:00,330,Dana Angus,8,8,7
+Temora,7,2025-08-27 14:42:00,457,Line Breaker,1,1,21
+Temora,7,2025-08-27 14:42:00,457,Kath's Chance,2,2,51
+Temora,7,2025-08-27 14:42:00,457,Moorong Marvel,3,3,7.5
+Temora,7,2025-08-27 14:42:00,457,Cawbourne Plough,4,4,71
+Temora,7,2025-08-27 14:42:00,457,Wincey Bale,5,5,5
+Temora,7,2025-08-27 14:42:00,457,Flash On By,6,6,3.8
+Temora,7,2025-08-27 14:42:00,457,Son Of Bianca,7,7,1.75
+Temora,7,2025-08-27 14:42:00,457,Lone Shark,8,8,4.4
+Temora,8,2025-08-27 15:04:00,330,Dana Mac,1,1,5.5
+Temora,8,2025-08-27 15:04:00,330,Westside Thunder,2,2,2.9
+Temora,8,2025-08-27 15:04:00,330,Dana Zena,3,3,26
+Temora,8,2025-08-27 15:04:00,330,Sly Sticker,4,4,9
+Temora,8,2025-08-27 15:04:00,330,Next Of Kin,5,5,7
+Temora,8,2025-08-27 15:04:00,330,Trixie's Chance,6,6,3.7
+Temora,8,2025-08-27 15:04:00,330,Fully Equipped,7,7,4.8
+Temora,8,2025-08-27 15:04:00,330,Westside Bullet,8,8,4.8
+Temora,9,2025-08-27 15:22:00,330,Run Bindi Run,1,1,7.5
+Temora,9,2025-08-27 15:22:00,330,Sycamore Shorty,2,2,20
+Temora,9,2025-08-27 15:22:00,330,Rivia Zoro,3,3,4.8
+Temora,9,2025-08-27 15:22:00,330,Blue Jezebel,4,4,21
+Temora,9,2025-08-27 15:22:00,330,Roto Road,5,5,4.8
+Temora,9,2025-08-27 15:22:00,330,Ledger's Desire,6,6,1.85
+Temora,9,2025-08-27 15:22:00,330,Zipping Kimmich,7,7,4.8
+Temora,9,2025-08-27 15:22:00,330,Faithful Flyer,8,8,9
+Temora,10,2025-08-27 15:37:00,330,Leg It Lucy,1,1,2.6
+Temora,10,2025-08-27 15:37:00,330,Sycamore Miss,2,2,26
+Temora,10,2025-08-27 15:37:00,330,Sycamore Belle,3,3,41
+Temora,10,2025-08-27 15:37:00,330,Silent Minute,4,4,1.65
+Temora,10,2025-08-27 15:37:00,330,Tiny Mac,5,5,11
+Temora,10,2025-08-27 15:37:00,330,Aston Zelda,6,6,10
+Temora,10,2025-08-27 15:37:00,330,Swanky Lemon,7,7,9.5
+Temora,10,2025-08-27 15:37:00,330,Fire Up Ellwood,8,8,8.5
+The Meadows,1,2025-08-27 18:43:00,525,Ascend Fern,1,1,4.2
+The Meadows,1,2025-08-27 18:43:00,525,Greedy Butcher,2,2,8.5
+The Meadows,1,2025-08-27 18:43:00,525,Rocky Planet,4,4,3.9
+The Meadows,1,2025-08-27 18:43:00,525,Knockabout Kid,5,5,3.9
+The Meadows,1,2025-08-27 18:43:00,525,Ironic,7,7,3.4
+The Meadows,1,2025-08-27 18:43:00,525,Aston Millicent,8,8,4.2
+The Meadows,2,2025-08-27 19:07:00,525,Weblec Snip,1,1,4.8
+The Meadows,2,2025-08-27 19:07:00,525,Weblec Beau,2,2,2.9
+The Meadows,2,2025-08-27 19:07:00,525,Archer Sweet,3,3,21
+The Meadows,2,2025-08-27 19:07:00,525,Weblec Max,4,4,3.2
+The Meadows,2,2025-08-27 19:07:00,525,Lightning Quick,5,5,4
+The Meadows,2,2025-08-27 19:07:00,525,Zorro Devere,6,6,15
+The Meadows,2,2025-08-27 19:07:00,525,Fast Reply,7,7,11
+The Meadows,2,2025-08-27 19:07:00,525,Reprieval,8,8,7
+The Meadows,3,2025-08-27 19:31:00,525,Canya Terry,1,1,1.4
+The Meadows,3,2025-08-27 19:31:00,525,Triggerfish,2,2,31
+The Meadows,3,2025-08-27 19:31:00,525,Lilly Loud Mouth,4,4,20
+The Meadows,3,2025-08-27 19:31:00,525,Bush Big Show,5,5,7.5
+The Meadows,3,2025-08-27 19:31:00,525,Weaponry,7,7,3.8
+The Meadows,3,2025-08-27 19:31:00,525,Weblec Pepper,8,8,4.8
+The Meadows,4,2025-08-27 19:49:00,525,Star Of Venus,1,1,4.4
+The Meadows,4,2025-08-27 19:49:00,525,Dad's Jam Donut,2,2,4
+The Meadows,4,2025-08-27 19:49:00,525,Edward Nigma,3,3,14
+The Meadows,4,2025-08-27 19:49:00,525,Nicky's Secret,4,4,10
+The Meadows,4,2025-08-27 19:49:00,525,Winning Steps,6,6,2.8
+The Meadows,4,2025-08-27 19:49:00,525,Remi Joy,7,7,2.7
+The Meadows,4,2025-08-27 19:49:00,525,Bush Lass,8,8,14
+The Meadows,5,2025-08-27 20:08:00,525,Giacomo,1,1,2
+The Meadows,5,2025-08-27 20:08:00,525,Paw Fabian,2,2,6
+The Meadows,5,2025-08-27 20:08:00,525,Paw Gordy,3,3,8.5
+The Meadows,5,2025-08-27 20:08:00,525,Greysynd Sammy,4,4,0
+The Meadows,5,2025-08-27 20:08:00,525,Motion Sensor,6,6,3.9
+The Meadows,5,2025-08-27 20:08:00,525,Galento,7,7,3.2
+The Meadows,5,2025-08-27 20:08:00,525,Paw Vince,8,8,26
+The Meadows,6,2025-08-27 20:28:00,600,Turn The Tide,1,1,1.8
+The Meadows,6,2025-08-27 20:28:00,600,Mister Manfredi,2,2,11
+The Meadows,6,2025-08-27 20:28:00,600,Luna's Girl,3,3,19
+The Meadows,6,2025-08-27 20:28:00,600,Utter Madness,4,4,3.9
+The Meadows,6,2025-08-27 20:28:00,600,Outsides,5,5,8.5
+The Meadows,6,2025-08-27 20:28:00,600,Glowing Ethics,6,6,61
+The Meadows,6,2025-08-27 20:28:00,600,Lady Ness,7,7,26
+The Meadows,6,2025-08-27 20:28:00,600,Aston Barton,8,8,3.4
+The Meadows,7,2025-08-27 20:48:00,600,Chicken Fish,1,1,2.25
+The Meadows,7,2025-08-27 20:48:00,600,Harvey Intention,2,2,41
+The Meadows,7,2025-08-27 20:48:00,600,Canya Adira,3,3,3.9
+The Meadows,7,2025-08-27 20:48:00,600,Paw Ucolta,4,4,3.9
+The Meadows,7,2025-08-27 20:48:00,600,Auntie Amber,5,5,19
+The Meadows,7,2025-08-27 20:48:00,600,Tawny Tears,6,6,20
+The Meadows,7,2025-08-27 20:48:00,600,Starfire Tears,7,7,4
+The Meadows,7,2025-08-27 20:48:00,600,Lady Breanna,8,8,8.5
+The Meadows,8,2025-08-27 21:08:00,600,Mia Neo,1,1,9.5
+The Meadows,8,2025-08-27 21:08:00,600,Gunai Daisy,2,2,81
+The Meadows,8,2025-08-27 21:08:00,600,Lamp Post,3,3,4.4
+The Meadows,8,2025-08-27 21:08:00,600,Trumpet Tears,4,4,5
+The Meadows,8,2025-08-27 21:08:00,600,Regal Barry,5,5,18
+The Meadows,8,2025-08-27 21:08:00,600,Valenzuela,6,6,1.7
+The Meadows,8,2025-08-27 21:08:00,600,Hurricane Bert,7,7,18
+The Meadows,8,2025-08-27 21:08:00,600,Vital Step,8,8,4.2
+The Meadows,9,2025-08-27 21:28:00,525,Sir Whip,1,1,4.4
+The Meadows,9,2025-08-27 21:28:00,525,Trendy Tommy,2,2,3
+The Meadows,9,2025-08-27 21:28:00,525,Blue Cabang,3,3,9.5
+The Meadows,9,2025-08-27 21:28:00,525,Aussie Fred,4,4,3.4
+The Meadows,9,2025-08-27 21:28:00,525,Navy Blue Buzz,6,6,20
+The Meadows,9,2025-08-27 21:28:00,525,Paw Rival,7,7,4
+The Meadows,9,2025-08-27 21:28:00,525,Paw Maud,8,8,4.8
+The Meadows,10,2025-08-27 21:50:00,525,Insane,1,1,6
+The Meadows,10,2025-08-27 21:50:00,525,Kid Luck,2,2,8
+The Meadows,10,2025-08-27 21:50:00,525,Almost Imminent,3,3,9
+The Meadows,10,2025-08-27 21:50:00,525,Paw Nebraska,4,4,2.7
+The Meadows,10,2025-08-27 21:50:00,525,Savannah Star,6,6,9
+The Meadows,10,2025-08-27 21:50:00,525,Only Easy,7,7,2.15
+The Meadows,10,2025-08-27 21:50:00,525,Aston Allure,8,8,11
+The Meadows,11,2025-08-27 22:08:00,525,In A Bit,1,1,2.5
+The Meadows,11,2025-08-27 22:08:00,525,Theo's Dim Sim,2,2,6
+The Meadows,11,2025-08-27 22:08:00,525,My Opie,3,3,4.2
+The Meadows,11,2025-08-27 22:08:00,525,Paw Helion,4,4,6.5
+The Meadows,11,2025-08-27 22:08:00,525,Fancy Freda,5,5,9
+The Meadows,11,2025-08-27 22:08:00,525,Trespassing,6,6,7
+The Meadows,11,2025-08-27 22:08:00,525,Scott Me,7,7,13
+The Meadows,11,2025-08-27 22:08:00,525,Laura May,8,8,4.4
+The Meadows,12,2025-08-27 22:26:00,525,Secret Emgrand,1,1,4.6
+The Meadows,12,2025-08-27 22:26:00,525,Sweet Begonia,2,2,4.4
+The Meadows,12,2025-08-27 22:26:00,525,Lyon Bale,3,3,9.5
+The Meadows,12,2025-08-27 22:26:00,525,Little Minnie,4,4,5
+The Meadows,12,2025-08-27 22:26:00,525,Senses Fail,5,5,23
+The Meadows,12,2025-08-27 22:26:00,525,Hurricane Mist,6,6,16
+The Meadows,12,2025-08-27 22:26:00,525,Obstropalous,7,7,7.5
+The Meadows,12,2025-08-27 22:26:00,525,Represent,8,8,2.05
